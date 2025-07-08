@@ -10,6 +10,6 @@ int main()
     printf("\tHello world!\n");
     printf("Hello world!");
 }
-printf("\n-------YES-------\n");
+printf("\n-------YES-------");
     return 0;
 }
